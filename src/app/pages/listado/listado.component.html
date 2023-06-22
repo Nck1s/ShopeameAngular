@@ -4,7 +4,7 @@
       <h4>{{product.tipo}}</h4>
       <h4>{{product.precio}}</h4>
       <img src="{{product.imagen}}" alt="{{product.marca}}">
-      <button routerLink='/listado/{{product.id}}'> Ver más </button>
-      <button> Eliminar </button>
+      <button routerLink='/listado/{{product.id}}'> Details </button>
+      <button (click)="deleteProduct(product.id)"> Delete </button>
     </li>
   </ul>
