@@ -11,6 +11,7 @@ import { ContactoComponent } from './pages/contacto/contacto.component';
 import { DetalleComponent } from './pages/listado/detalle/detalle.component';
 import { NewProductComponent } from './pages/new-product/new-product.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { FilterComponent } from './pages/listado/filter/filter.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     ContactoComponent,
     DetalleComponent,
     NewProductComponent,
+    FilterComponent,
   ],
   imports: [
     BrowserModule,

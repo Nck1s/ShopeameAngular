@@ -1,5 +1,7 @@
+<app-filter (filterChanged)="applyFilter($event)"></app-filter>
+
 <ul class="product-list">
-    <li *ngFor="let product of productList">
+    <li *ngFor="let product of filteredList">
       <h4>{{product.marca}}</h4>
       <h4>{{product.tipo}}</h4>
       <h4>{{product.precio}}</h4>

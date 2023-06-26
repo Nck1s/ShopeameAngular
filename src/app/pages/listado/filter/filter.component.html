@@ -1,0 +1,13 @@
+<form [formGroup]="filterForm" (ngSubmit)="submitForm()">
+    <select formControlName="brand">
+        <option *ngFor="let brand of brandList" [value]="brand" >{{brand}}</option>
+    </select>
+
+    <div class="form-group">
+        <label for="text" class="form-label"> Texto </label>
+        <input type="text" id="text" formControlName="text" class="form-input">
+      </div>
+    <button type="submit" class="form-button"> Search </button>
+
+</form>
+

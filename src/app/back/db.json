@@ -6,7 +6,7 @@
       "precio": 18.95,
       "color": "Rojo",
       "marca": "Nike",
-      "imagen": "https://m.media-amazon.com/images/I/71LAwlLpYfL._AC_UX569_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/71LAwlLpYfL._AC_UX569_.jpg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "precio": 12.99,
       "color": "Azul",
       "marca": "Adidas",
-      "imagen": "https://m.media-amazon.com/images/I/614OvVtKdGL._AC_UX569_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/614OvVtKdGL._AC_UX569_.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "precio": 32.95,
       "color": "Negro",
       "marca": "Puma",
-      "imagen": "https://m.media-amazon.com/images/I/61HN0+AkZEL._AC_UX625_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61HN0+AkZEL._AC_UX625_.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "precio": 72.95,
       "color": "Blanco",
       "marca": "Tommy Hilfiger",
-      "imagen": "https://m.media-amazon.com/images/I/71qkk1Bo+aL._AC_UY741_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/71qkk1Bo+aL._AC_UY741_.jpg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "precio": 70.99,
       "color": "Verde",
       "marca": "Tommy Hilfiger",
-      "imagen": "https://m.media-amazon.com/images/I/81fkSREFziL._AC_UX569_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/81fkSREFziL._AC_UX569_.jpg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "precio": 45.99,
       "color": "Negro",
       "marca": "Under Armour",
-      "imagen": "https://m.media-amazon.com/images/I/41liSrQd58L._AC_UX679_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/41liSrQd58L._AC_UX679_.jpg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "precio": 34.85,
       "color": "Gris",
       "marca": "Champion",
-      "imagen": "https://m.media-amazon.com/images/I/91ZRurc-oGL._AC_UX679_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/91ZRurc-oGL._AC_UX679_.jpg"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "precio": 54.99,
       "color": "Blanco",
       "marca": "Reebok",
-      "imagen": "https://m.media-amazon.com/images/I/71pBP0LVuHL._AC_UY625_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/71pBP0LVuHL._AC_UY625_.jpg"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "precio": 70.99,
       "color": "Azul",
       "marca": "Nike",
-      "imagen": "https://m.media-amazon.com/images/I/81kkLTZQSSL._AC_UY575_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/81kkLTZQSSL._AC_UY575_.jpg"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "precio": 80.99,
       "color": "Negro",
       "marca": "Levi's",
-      "imagen": "https://m.media-amazon.com/images/I/61a6IHE6C4L._AC_UY606_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61a6IHE6C4L._AC_UY606_.jpg"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "precio": 84.99,
       "color": "Azul",
       "marca": "New Balance",
-      "imagen": "https://m.media-amazon.com/images/I/51-8zbKuj4L._AC_UY625_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/51-8zbKuj4L._AC_UY625_.jpg"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "precio": 79.99,
       "color": "Negro",
       "marca": "The North Face",
-      "imagen": "https://m.media-amazon.com/images/I/61AYpZB3xsL._AC_UX466_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61AYpZB3xsL._AC_UX466_.jpg"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "precio": 129.99,
       "color": "Rojo",
       "marca": "Ralph Lauren",
-      "imagen": "https://m.media-amazon.com/images/I/61frsURvq4L._AC_UX569_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61frsURvq4L._AC_UX569_.jpg"
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "precio": 69.99,
       "color": "Marrón",
       "marca": "Birkenstock",
-      "imagen": "https://m.media-amazon.com/images/I/611A6yFdHFL._AC_UY625_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/611A6yFdHFL._AC_UY625_.jpg"
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "precio": 44.99,
       "color": "Gris",
       "marca": "Gap",
-      "imagen": "https://m.media-amazon.com/images/I/716rwLO6q0L._AC_UX679_.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/716rwLO6q0L._AC_UX679_.jpg"
     }
   ]
 }
